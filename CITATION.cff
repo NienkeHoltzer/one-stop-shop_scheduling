@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "HOFFMANS-HOLTZER"
+  given-names: "NIENKE"
+  orcid: "https://orcid.org/0000-0001-8775-1963"
+- family-names: "SMOLENAERS"
+  given-names: "LUUK"
+- family-names: "OLOFSEN-VAN ACHT"
+  given-names: "MANOUK"
+- family-names: "HOOGEMAN"
+  given-names: "MISCHA"
+- family-names: "BALVERT"
+  given-names: "MARLEEN"
+- family-names: "PETIT"
+  given-names: "STEVEN"
+title: "Robust bi-objective scheduling for a one-stop shop palliative radiotherapy clinic: an extension to flexible flow shop"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-05-17
+url: "https://github.com/NienkeHoltzer/one-stop-shop_scheduling"
