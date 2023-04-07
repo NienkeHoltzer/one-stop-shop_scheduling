@@ -227,7 +227,7 @@ def runAlgo(nrPatients, nrROs, RO_tasks, RTT_tasks, AutoSeg, AutoQA, p_size, max
   parameters = SS.solver_Parameters(nrOperations)
   
   parameters['break length RO'] = break_RO
-  parameters['break lenght RTT'] = break_RTT
+  parameters['break length RTT'] = break_RTT
   parameters['break start'] = break_start
   parameters['break end'] = break_end
   parameters['end of day'] = end_of_day
